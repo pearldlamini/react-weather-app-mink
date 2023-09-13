@@ -9,7 +9,7 @@ export default function App() {
     <Weather defaultCity="Durban" />
     <footer>
       This project was coded by Pearl Dlamini and is {" "}
-    <a href="https://github.com/pearldlamini/react-weather-app-mink" target="blank_">Open-sourced on GitHub</a>
+    <a href="https://github.com/pearldlamini/react-weather-app-mink" target="blank_" rel="nooponer noreferrer">Open-sourced on GitHub</a>
     </footer>
     </div>
     </div>
